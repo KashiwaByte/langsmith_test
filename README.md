@@ -1,0 +1,3 @@
+针对Langsmith BETA版的测试
+
+使用前注意获取langsmith的测试资格和API并创建项目，然后参照.env.template创建.env环境。
